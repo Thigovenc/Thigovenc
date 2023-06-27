@@ -1,9 +1,6 @@
 ### Opa, sou o Thiago Venceslau 👋
 
-- 🔭 Atualmente "só" estudando.
 - 🌱 Estudando Java.
-- 🌱 Estudando Kotlin.
-- 🌱 Estudando Dart.
 
 ##
 
@@ -16,10 +13,6 @@
 <div style="display: inline_block" align="center"><br>
   
   <img align="center" alt="thigo-java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="thigo-kotlin" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="thigo-Dart" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" alt="thigo-Flutter" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="thigo-python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           
 </div>
   
