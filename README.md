@@ -1,5 +1,9 @@
 ### Opa, sou Thiago Venceslau 👋
+👋 Atualmente, sou estagiário em Front-end, focado em criar interfaces intuitivas e experiências de usuário eficientes. Estou estudando HTML, CSS, JavaScript e React para aprimorar minhas habilidades no desenvolvimento web.
 
+🚀 Sempre em busca de aprender mais sobre desenvolvimento web e design responsivo.
+
+💡 Aberto a novas ideias, colaborações e desafios!
 
 ##
 
