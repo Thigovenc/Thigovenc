@@ -1,6 +1,5 @@
-### Opa, sou o Thiago Venceslau 👋
+### Opa, sou Thiago Venceslau 👋
 
-- 🌱 Estudando Java.
 
 ##
 
@@ -11,8 +10,6 @@
 </div>
   
 <div style="display: inline_block" align="center"><br>
-  
-  <img align="center" alt="thigo-java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
           
 </div>
   
