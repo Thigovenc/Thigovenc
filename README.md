@@ -1,10 +1,9 @@
-### Opa, sou Thiago Venceslau 👋
-👋 Atualmente, sou estagiário em Front-end, focado em criar interfaces intuitivas e experiências de usuário eficientes. Estou estudando HTML, CSS, JavaScript e React para aprimorar minhas habilidades no desenvolvimento web.
+### Hello World, Thiago here 👋
+💻 Front-End Intern focused on developing intuitive interfaces and efficient user experiences. I work with React, TypeScript, Tailwind CSS, Axios, and MongoDB, always striving to improve my web development skills.
 
-🚀 Sempre em busca de aprender mais sobre desenvolvimento web e design responsivo.
+🚀 Currently, I am deepening my knowledge in automated testing with Jest and Vitest, as well as best practices and performance optimization.
 
-💡 Aberto a novas ideias, colaborações e desafios!
-
+💡 Open to new ideas, collaborations, and challenges!
 ##
 
 <div align="center">
