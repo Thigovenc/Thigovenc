@@ -2,7 +2,7 @@
 **Software Developer | B.S. in Information Systems**
 
 ### 🌑 Overview
-Desenvolvedor focado no ecossistema **Back-end**, com ênfase em arquiteturas escaláveis e performance.
+**Software Engineer** focused on building scalable **back-end architectures** and **high-performance systems**. I bridge the gap between robust software development and academic research in **Intelligent Systems**.
 
 - 🛠️ **Professional Stack:** Node.js, TypeScript, Express, MongoDB.
 - 🔬 **Research:** Machine Learning.
